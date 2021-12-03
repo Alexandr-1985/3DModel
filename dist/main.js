@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Hi its first modul!"),console.log("Its copy of modul one )!"),console.log("npm init )!"),console.log("npm install webpack webpack-cli --save-dev )!"),console.log("npx webpack )!"),console.log("npm run watch )!")})();
